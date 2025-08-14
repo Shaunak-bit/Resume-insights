@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Node.js dependencies
+node_modules/
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
