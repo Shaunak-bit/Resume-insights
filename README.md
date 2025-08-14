@@ -54,6 +54,7 @@ v
 - **Frontend** allows users to upload documents, view results, and browse history.
 - **Database** persists uploaded PDFs and their corresponding insights.
 
-
+git clone https://github.com/Shaunak-bit/Resume-insights.git
+cd resume-insight-tool
 
 
